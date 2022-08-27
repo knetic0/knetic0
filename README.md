@@ -3,8 +3,6 @@
 
 > ### I'm a Computer Engineering student @ Osmaniye Korkut Ata University 📚
 
-![](https://komarev.com/ghpvc/?username=knetic0&color=blue)
-
 <br />
 
 <div align="center">
@@ -66,6 +64,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knetic0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=knetic0&color=blue)
 
 <!---
 knetic0/knetic0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
