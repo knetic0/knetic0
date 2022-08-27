@@ -3,6 +3,8 @@
 
 > ### I'm a Computer Engineering student @ Osmaniye Korkut Ata University 📚
 
+<br />
+
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif" align="right" width=300px>
 
 <br />
