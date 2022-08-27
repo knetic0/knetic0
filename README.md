@@ -1,13 +1,14 @@
 # Hi! I'm Mehmet :hand:
 > ### Python, Go Developer & Cyber Security & Learning C++ :computer: 
+
+> ### I'm a Computer Engineering student @ Osmaniye Korkut Ata University 📚
+
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif" align="right" width=300px>
+
+<br />
+<br />
 <br />
 
-<center>
-
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif" width=300px>
-
-</center>
-<br />
 
 >### <center> <font color="white">Connect with me!</font></center> 
 
