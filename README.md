@@ -3,6 +3,8 @@
 
 > ### I'm a Computer Engineering student @ Osmaniye Korkut Ata University 📚
 
+![](https://komarev.com/ghpvc/?username=knetic0&color=blue)
+
 <br />
 
 <div align="center">
