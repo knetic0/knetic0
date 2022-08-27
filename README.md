@@ -1,8 +1,11 @@
 # Hi! I'm Mehmet :hand:
 > ### Python, Go Developer & Cyber Security & Learning C++ :computer: 
 <br />
+
 <center>
+
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif" width=300px>
+
 </center>
 <br />
 
