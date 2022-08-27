@@ -62,6 +62,8 @@
 
 </center>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knetic0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 knetic0/knetic0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
