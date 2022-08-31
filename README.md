@@ -1,5 +1,5 @@
 # Hi! I'm Mehmet :hand:
-> ### Python, Go Developer & Cyber Security & Learning C++ :computer: 
+> ### Python, Go Developer & AI & Learning C++ :computer: 
 
 > ### I'm a Computer Engineering student @ Osmaniye Korkut Ata University 📚
 
