@@ -5,8 +5,7 @@
 
 <br />
 
-<img src="https://webkurnazi.com/uploads/images/202111/img_temp_61867410aa8f40-84708041-45860188.gif" />
-
+<img src="https://www.charterglobal.com/wp-content/uploads/2019/01/o1920108014140002018.gif" />
 
 <br />
 <br />
