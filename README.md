@@ -5,9 +5,8 @@
 
 <br />
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif" width=300px/>
-</div>
+<img src="https://webkurnazi.com/uploads/images/202111/img_temp_61867410aa8f40-84708041-45860188.gif" />
+
 
 <br />
 <br />
