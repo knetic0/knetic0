@@ -1,4 +1,5 @@
-<h2><img src="https://img.icons8.com/color/512/golang.png" width="30"/>   Hi!  I'm Mehmet!</h2>
+<h2><img src="https://img.icons8.com/color/512/golang.png" width="30"/>      Hi! I'm Mehmet!</h2>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>Junior Full Stack Web Developer & Python Developer
