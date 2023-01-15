@@ -1,80 +1,35 @@
-<div align=center>
+<h2><img src="https://img.icons8.com/color/512/golang.png" width="30"/>   Hi!  I'm Mehmet!</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-# Hi! I'm Mehmet :hand:
-> ### Python, Go Developer & AI & Learning C++ :computer: 
-
-> ### I'm a Computer Engineering student @ Osmaniye Korkut Ata University 📚
-
-<br />
-
-<img src="https://www.charterglobal.com/wp-content/uploads/2019/01/o1920108014140002018.gif" />
-
-<br />
-<br />
-<br />
+<p><em>Junior Full Stack Web Developer & Python Developer
+</a>
+</em></p>
 
 
-># <font color="white">:link: Connect with me!</font>
+[![Twitter Follow](https://img.shields.io/twitter/follow/LeclercVekili0?label=Follow)](https://twitter.com/intent/follow?screen_name=LeclercVekili0)
+[![Linkedin: Mehmet Solak](https://img.shields.io/badge/-MehmetSolak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/mehmet-solak-250216224/)
+![GitHub followers](https://img.shields.io/github/followers/knetic0?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://knetic0.github.io/)](https://knetic0.github.io/)
+![](https://komarev.com/ghpvc/?username=knetic0&style=flat-square)
 
-<br />
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
-<img src="https://giffiles.alphacoders.com/211/211099.gif" width=350 align="right">
-
-<img src="https://media.giphy.com/media/cO31OOpbYOMHaTbB56/giphy.gif" align="left" width=215 />
-
-<br />
-
-[<img height="48" width="172" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
-<b><br />
-[<img height="48" width="172" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-<b><br />
-[<img height="48" width="172" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/mehmetsolakk0/?hl=tr
-[linkedin]: https://www.linkedin.com/in/mehmet-solak-250216224/
-[twitter]: https://twitter.com/LeclercVekili0
-
-<br />
-
-> # :heavy_check_mark: Tech I Use
-
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width=150 height=50 />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" width=100 height=50>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=50 height=50 />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=120 height=50 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width=50 height=50 />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width=100 height=50>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width=50 height=50 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width=50>
-
-
-<br />
-<br />
-<br />
-
-> # :signal_strength: Github Stats
-
-<br />
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knetic0)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knetic0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=knetic0&color=blue)
-
-</div>
-
-<!---
-knetic0/knetic0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+```javascript
+const knetic0 = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Go"],
+    askMeAbout: ["web dev", "tech", "ai"],
+    technologies: {
+        backEnd: {
+            go: ["fiber", "jwt", "httprouter", "mux"],
+        },
+        frontEnd: {
+            js: ["Vue"]
+        },
+        devOps: ["Docker🐳"],
+        databases: ["postgresql", "sqlite"],
+        misc: ["selenium", "open-cv"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+};
+```
