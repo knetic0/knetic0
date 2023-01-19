@@ -13,6 +13,8 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://knetic0.github.io/)](https://knetic0.github.io/)
 ![](https://komarev.com/ghpvc/?username=knetic0&style=flat-square)
 
+### Tech I Use
+
 <div style="display: flex;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="35"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="35" />
