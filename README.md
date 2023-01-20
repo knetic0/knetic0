@@ -33,7 +33,7 @@ const knetic0 = {
     askMeAbout: ["web dev", "tech", "ai"],
     technologies: {
         backEnd: {
-            go: ["fiber", "jwt", "httprouter", "mux"],
+            go: ["fiber", "jwt", "httprouter", "mux", "gorm"],
         },
         frontEnd: {
             js: ["Vue"]
