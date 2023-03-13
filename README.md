@@ -39,7 +39,6 @@ const knetic0 = {
         frontEnd: {
             js: ["Vue"]
         },
-        devOps: ["Docker🐳"],
         databases: ["postgresql", "sqlite"],
         misc: ["selenium", "open-cv"]
     },
