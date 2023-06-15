@@ -7,7 +7,7 @@
 </em></p>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/LeclercVekili0?label=Follow)](https://twitter.com/intent/follow?screen_name=LeclercVekili0)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dotceng?label=Follow)](https://twitter.com/intent/follow?screen_name=LeclercVekili0)
 [![Linkedin: Mehmet Solak](https://img.shields.io/badge/-MehmetSolak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/mehmet-solak-250216224/)
 ![GitHub followers](https://img.shields.io/github/followers/knetic0?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://knetic0.github.io/)](https://knetic0.github.io/)
