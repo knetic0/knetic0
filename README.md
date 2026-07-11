@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Junior Full Stack Web Developer & Python Developer
+<p>Just Software Engineer...
 </a>
-</em></p>
+</p>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dotceng?label=Follow)](https://twitter.com/intent/follow?screen_name=dotceng)
