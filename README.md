@@ -58,6 +58,14 @@ Software Engineer at **Tiga Healthcare Technologies**, working on **.NET Core We
 
 <br/>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=knetic0&theme=monokai)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
 ## Featured Projects
 
 <table>
@@ -102,13 +110,5 @@ A small suite of .NET libraries: repository layer, response wrapping, minimal en
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=knetic0&theme=monokai)](https://git.io/streak-stats)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=180&section=footer" width="100%" alt="footer" />
