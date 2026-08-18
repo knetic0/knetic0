@@ -107,7 +107,7 @@ A small suite of .NET libraries: repository layer, response wrapping, minimal en
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=knetic0&theme=dark&hide_border=true&background=0d1117&ring=64748B&fire=94A3B8&currStreakLabel=94A3B8" alt="GitHub streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=knetic0&theme=monokai)](https://git.io/streak-stats)
 
 </div>
 
